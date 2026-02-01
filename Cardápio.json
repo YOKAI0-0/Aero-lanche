@@ -1,0 +1,42 @@
+{
+  "burguer": [
+    { "nome": "X-Salada", "preco": 20 },
+    { "nome": "X-Salada Duplo", "preco": 26 },
+    { "nome": "X-Burguer", "preco": 19 },
+    { "nome": "X-Egg", "preco": 21 },
+    { "nome": "X-Bacon", "preco": 25 },
+    { "nome": "X-Calabresa", "preco": 20 },
+    { "nome": "X-Frango", "preco": 18 },
+    { "nome": "X-Frango com Catupiry", "preco": 24 },
+    { "nome": "X-Frango com Hambúrguer", "preco": 24 },
+    { "nome": "X-Frango Especial", "preco": 25 },
+    { "nome": "X-Alcatra", "preco": 35 },
+    { "nome": "X-Da Casa", "preco": 33 },
+    { "nome": "X-Vegetariano", "preco": 20 },
+    { "nome": "X-Misto Quente", "preco": 13 }
+  ],
+  "dogs": [
+    { "nome": "Dog Simples", "preco": 10 },
+    { "nome": "Dog Duplo", "preco": 12 },
+    { "nome": "Dog Duplo com Queijo", "preco": 16 },
+    { "nome": "Dog Burguer", "preco": 17 },
+    { "nome": "Dog Bacon", "preco": 17 },
+    { "nome": "Dog Bacon Cheddar", "preco": 24 },
+    { "nome": "Dog Frango", "preco": 14 },
+    { "nome": "Dog Frango com Catupiry", "preco": 21 },
+    { "nome": "Dog da Casa", "preco": 23 }
+  ],
+  "porcoes": [
+    { "nome": "Batata Individual", "preco": 8 },
+    { "nome": "Batata Porção", "preco": 15 },
+    { "nome": "Batata com Bacon e Cheddar", "preco": 30 },
+    { "nome": "Calabresa Acebolada", "preco": 20 }
+  ],
+  "bebidas": [
+    { "nome": "Água", "preco": 4 },
+    { "nome": "Refrigerante Lata", "preco": 6 },
+    { "nome": "Refrigerante 600ml", "preco": 8 },
+    { "nome": "Suco Pequeno", "preco": 8 },
+    { "nome": "Suco Grande", "preco": 15 }
+  ]
+}
